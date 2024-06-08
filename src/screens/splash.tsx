@@ -19,7 +19,7 @@ const Splash = () => {
       <SafeAreaView />
       <Image source={Img} style={styles.image} resizeMode="cover" />
       <View style={styles.viewTitle}>
-        <Text style={styles.title}>Aprenda em casa!</Text>
+        <Text style={styles.title}>Aprenda do seu jeito em casa!</Text>
         <Text style={styles.subtitle}>Eficiente e efetivo</Text>
       </View>
       <TouchableOpacity style={styles.button} activeOpacity={0.7}>
